@@ -1,0 +1,20 @@
+Interrupts and Interrupt Vector names:
+http://www.nongnu.org/avr-libc/user-manual/group__avr__interrupts.html#gad28590624d422cdf30d626e0a506255f
+
+Language reference:
+https://www.arduino.cc/reference/en/
+
+Arduino playground
+https://playground.arduino.cc/
+
+Atmega Product Website
+https://www.microchip.com/wwwproducts/en/ATmega32u4
+
+AStar32U4 library
+https://pololu.github.io/a-star-32u4-arduino-library/
+https://github.com/pololu/a-star-32u4-arduino-library
+
+Nick Gammon's notes
+http://gammon.com.au/interrupts
+
+

@@ -1,0 +1,15 @@
+1. Download and install Arduino (1.8.13 in this case)
+2. Download the USB drivers (a-star-windows-1.3.0.0.zip), unzip, go to the folder, 
+	RMB on a-star.inf and click Install.
+3. Open the IDE and go to File->Preferences and in the Additional Boards URLs add 
+	the following, seperated from other entries by comma if there are 
+	https://files.pololu.com/arduino/package_pololu_index.json
+4. In the Tools -> Board menu, select “Boards Manager…” (at the top of the menu),
+	search for “Pololu A-Star Boards”, click and install.
+5. Plug in A-star  board
+6. Tools->Board->Pololu A-star boards->Pololu A-Star 32U4
+7. Tools->Port->[Select the one pointing to the A-star]
+8. File->Examples->01.Basics->Blink
+9. Click the -> arrow to compile and download.
+
+
